@@ -1,3 +1,3 @@
-Переклад Ad Manager for Wordpress v1.0 на українську мову.
+РџРµСЂРµРєР»Р°Рґ Ad Manager for Wordpress v1.0 РЅР° СѓРєСЂР°С—РЅСЃСЊРєСѓ РјРѕРІСѓ.
 
 http://geardev.de/codecanyon/ad-manager.php
